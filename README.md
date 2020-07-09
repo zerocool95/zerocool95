@@ -1,4 +1,10 @@
-### Hi there 👋
+#### I work on building and implementing AI integrated solutions for business use cases across multiple domains specifically computer vision and natural language processing.Having participated in various deep learning hackathons I have an exposure to structured deep learning pipelines. 
+
+- Currently working on deep learning(computer vision) on edge devices(jetson nano, google coral).
+
+- Would love to collaborate on research projects related to deep learning on scale.
+
+- You can reach out to me on "akashbasudevan@gmail.com"
 
 <!--
 **zerocool95/zerocool95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
