@@ -1,4 +1,4 @@
-#### I work on building and implementing AI integrated solutions for business use cases across multiple domains specifically computer vision and natural language processing.Having participated in various deep learning hackathons I have an exposure to structured deep learning pipelines. 
+#### I work on building and implementing AI integrated solutions for business use cases across multiple domains specifically computer vision and natural language processing.Having participated in various machine learning hackathons I have an exposure to structured machine learning pipelines. 
 
 - Currently working on deep learning(computer vision) on edge devices(jetson nano, google coral).
 
