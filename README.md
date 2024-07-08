@@ -1,7 +1,8 @@
 #### I work on building and implementing AI integrated solutions for business use cases across multiple domains specifically computer vision and natural language processing.Having participated in various machine learning hackathons I have an exposure to structured machine learning pipelines. 
 I have experience in building models and solutions for edge devices such as jetson nano, google coral. 
 
-- Currently working at Amazon One research team, helping scale across the globe. 
+- Currently working at Google, improving user experience through ML on Android devices.
+- Previously I was working in Amazon One research team. Focus areas : MLOps, Workflow Orchestration, Automation and Training/Inference optimization.
 - Would love to collaborate on research projects related to deep learning on scale.
 
 - You can reach out to me on "akashbasudevan@gmail.com"
